@@ -1,0 +1,703 @@
+;;;;;;;
+Encuesta;Periodo;Indicadores;Nacional;Área;;Sexo;
+;;;Total;Urbana;Rural;Hombre;Mujer
+ENEMDU;dic-07;Empleo Bruto (%);64,7;62,6;69,0;80,0;50,1
+ENEMDU;dic-07;Empleo Global (%);95,0;93,9;97,2;96,2;93,3
+ENEMDU;dic-07;Empleo Adecuado/Pleno (%);43,2;52,9;23,7;50,5;32,4
+ENEMDU;dic-07;Subempleo (%);18,2;16,3;22,2;18,0;18,6
+ENEMDU;dic-07;Subempleo por insuficiencia de tiempo de trabajo (%);13,6;12,3;16,2;12,6;15,1
+ENEMDU;dic-07;Subempleo por  insuficiencia de ingresos (%);4,7;4,0;6,0;5,4;3,5
+ENEMDU;dic-07;Empleo no Remunerado (%);8,8;5,1;16,2;4,7;14,9
+ENEMDU;dic-07;Otro Empleo no pleno(%);23,7;18,6;34,1;22,0;26,3
+ENEMDU;dic-07;Empleo no Clasificado (%);1,0;1,1;0,9;1,0;1,0
+ENEMDU;dic-07;Desempleo (%);5,0;6,1;2,8;3,8;6,7
+ENEMDU;dic-07;Desempleo Abierto (%);3,0;4,0;1,2;2,6;3,7
+ENEMDU;dic-07;Desempleo Oculto (%);1,9;2,1;1,7;1,3;3,0
+ENEMDU;dic-07;Participación Global (%);68,1;66,7;71,1;83,2;53,7
+ENEMDU;dic-07;Participación Bruta (%);46,3;46,6;45,7;55,8;37,0
+ENEMDU;jun-08;Empleo Bruto (%);65,6;64,1;68,9;80,0;51,8
+ENEMDU;jun-08;Empleo Global (%);94,8;93,6;97,1;96,1;92,8
+ENEMDU;jun-08;Empleo Adecuado/Pleno (%);41,7;50,7;23,3;49,8;30,2
+ENEMDU;jun-08;Subempleo (%);17,2;15,7;20,1;17,1;17,2
+ENEMDU;jun-08;Subempleo por insuficiencia de tiempo de trabajo (%);12,8;11,9;14,8;11,8;14,4
+ENEMDU;jun-08;Subempleo por  insuficiencia de ingresos (%);4,3;3,8;5,3;5,3;2,8
+ENEMDU;jun-08;Empleo no Remunerado (%);9,3;5,8;16,5;5,3;15,2
+ENEMDU;jun-08;Otro Empleo no pleno(%);25,6;20,5;36,2;23,1;29,3
+ENEMDU;jun-08;Empleo no Clasificado (%);0,9;0,9;1,0;0,9;0,9
+ENEMDU;jun-08;Desempleo (%);5,2;6,4;2,9;3,9;7,2
+ENEMDU;jun-08;Desempleo Abierto (%);3,7;4,9;1,2;3,2;4,5
+ENEMDU;jun-08;Desempleo Oculto (%);1,5;1,5;1,6;0,7;2,7
+ENEMDU;jun-08;Participación Global (%);69,3;68,5;70,9;83,2;55,8
+ENEMDU;jun-08;Participación Bruta (%);47,8;48,6;46,3;56,7;39,0
+ENEMDU;dic-08;Empleo Bruto (%);62,2;61,1;64,7;78,1;47,5
+ENEMDU;dic-08;Empleo Global (%);94,0;92,7;96,9;95,7;91,7
+ENEMDU;dic-08;Empleo Adecuado/Pleno (%);44,8;54,0;25,3;52,4;33,6
+ENEMDU;dic-08;Subempleo (%);15,0;13,6;18,0;14,4;15,8
+ENEMDU;dic-08;Subempleo por insuficiencia de tiempo de trabajo (%);11,0;10,3;12,6;10,0;12,6
+ENEMDU;dic-08;Subempleo por  insuficiencia de ingresos (%);4,0;3,3;5,3;4,5;3,2
+ENEMDU;dic-08;Empleo no Remunerado (%);8,2;4,9;15,2;4,2;14,1
+ENEMDU;dic-08;Otro Empleo no pleno(%);25,8;19,8;38,4;24,3;28,1
+ENEMDU;dic-08;Empleo no Clasificado (%);0,2;0,3;0,1;0,3;0,1
+ENEMDU;dic-08;Desempleo (%);6,0;7,3;3,1;4,3;8,3
+ENEMDU;dic-08;Desempleo Abierto (%);4,0;5,2;1,3;3,2;5,1
+ENEMDU;dic-08;Desempleo Oculto (%);2,0;2,1;1,8;1,2;3,2
+ENEMDU;dic-08;Participación Global (%);66,2;65,9;66,8;81,6;51,8
+ENEMDU;dic-08;Participación Bruta (%);46,0;47,0;44,0;55,6;36,7
+ENEMDU;dic-09;Empleo Bruto (%);61,1;59,5;64,4;76,0;47,0
+ENEMDU;dic-09;Empleo Global (%);93,5;92,1;96,4;94,8;91,6
+ENEMDU;dic-09;Empleo Adecuado/Pleno (%);39,2;47,8;21,6;45,2;30,2
+ENEMDU;dic-09;Subempleo (%);16,4;15,1;18,9;16,3;16,4
+ENEMDU;dic-09;Subempleo por insuficiencia de tiempo de trabajo (%);11,7;10,9;13,3;10,7;13,0
+ENEMDU;dic-09;Subempleo por  insuficiencia de ingresos (%);4,7;4,2;5,7;5,6;3,4
+ENEMDU;dic-09;Empleo no Remunerado (%);8,9;4,8;17,2;4,9;14,7
+ENEMDU;dic-09;Otro Empleo no pleno(%);27,2;21,6;38,4;26,2;28,5
+ENEMDU;dic-09;Empleo no Clasificado (%);1,9;2,7;0,3;2,1;1,7
+ENEMDU;dic-09;Desempleo (%);6,5;7,9;3,6;5,2;8,4
+ENEMDU;dic-09;Desempleo Abierto (%);4,5;6,0;1,4;3,7;5,7
+ENEMDU;dic-09;Desempleo Oculto (%);2,0;1,9;2,2;1,5;2,7
+ENEMDU;dic-09;Participación Global (%);65,3;64,6;66,7;80,2;51,3
+ENEMDU;dic-09;Participación Bruta (%);46,5;47,0;45,5;56,2;37,1
+ENEMDU;jun-10;Empleo Bruto (%);60,8;59,1;64,6;75,9;46,8
+ENEMDU;jun-10;Empleo Global (%);93,8;92,3;96,8;95,0;92,0
+ENEMDU;jun-10;Empleo Adecuado/Pleno (%);41,3;50,1;23,3;47,0;32,8
+ENEMDU;jun-10;Subempleo (%);15,8;15,0;17,4;15,3;16,6
+ENEMDU;jun-10;Subempleo por insuficiencia de tiempo de trabajo (%);11,6;11,3;12,1;10,3;13,5
+ENEMDU;jun-10;Subempleo por  insuficiencia de ingresos (%);4,2;3,7;5,3;5,0;3,1
+ENEMDU;jun-10;Empleo no Remunerado (%);7,9;3,9;16,0;4,3;13,1
+ENEMDU;jun-10;Otro Empleo no pleno(%);27,5;21,7;39,4;27,0;28,2
+ENEMDU;jun-10;Empleo no Clasificado (%);1,3;1,6;0,7;1,4;1,3
+ENEMDU;jun-10;Desempleo (%);6,2;7,7;3,2;5,0;8,0
+ENEMDU;jun-10;Desempleo Abierto (%);4,5;5,9;1,7;3,9;5,4
+ENEMDU;jun-10;Desempleo Oculto (%);1,7;1,8;1,5;1,1;2,6
+ENEMDU;jun-10;Participación Global (%);64,9;64,0;66,8;79,9;50,9
+ENEMDU;jun-10;Participación Bruta (%);46,4;46,9;45,4;56,2;37,0
+ENEMDU;dic-10;Empleo Bruto (%);59,4;58,1;62,1;74,7;44,9
+ENEMDU;dic-10;Empleo Global (%);95,0;93,9;97,2;95,9;93,6
+ENEMDU;dic-10;Empleo Adecuado/Pleno (%);44,7;53,9;25,9;50,0;36,5
+ENEMDU;dic-10;Subempleo (%);13,8;12,9;15,6;14,1;13,4
+ENEMDU;dic-10;Subempleo por insuficiencia de tiempo de trabajo (%);10,5;10,0;11,5;10,1;11,0
+ENEMDU;dic-10;Subempleo por  insuficiencia de ingresos (%);3,4;3,0;4,1;4,0;2,3
+ENEMDU;dic-10;Empleo no Remunerado (%);8,2;4,1;16,5;4,4;14,1
+ENEMDU;dic-10;Otro Empleo no pleno(%);27,4;21,8;39,0;26,6;28,7
+ENEMDU;dic-10;Empleo no Clasificado (%);0,8;1,2;0,2;0,8;1,0
+ENEMDU;dic-10;Desempleo (%);5,0;6,1;2,8;4,1;6,4
+ENEMDU;dic-10;Desempleo Abierto (%);3,5;4,5;1,4;3,0;4,2
+ENEMDU;dic-10;Desempleo Oculto (%);1,5;1,6;1,4;1,1;2,2
+ENEMDU;dic-10;Participación Global (%);62,5;61,9;63,9;77,9;48,0
+ENEMDU;dic-10;Participación Bruta (%);45,1;45,6;44,1;55,2;35,1
+ENEMDU;jun-11;Empleo Bruto (%);59,4;57,7;63,1;74,3;45,5
+ENEMDU;jun-11;Empleo Global (%);95,0;93,6;97,7;95,7;93,9
+ENEMDU;jun-11;Empleo Adecuado/Pleno (%);42,6;52,0;23,5;47,6;35,0
+ENEMDU;jun-11;Subempleo (%);11,9;11,5;12,7;12,0;11,9
+ENEMDU;jun-11;Subempleo por insuficiencia de tiempo de trabajo (%);8,9;8,9;8,9;8,4;9,6
+ENEMDU;jun-11;Subempleo por  insuficiencia de ingresos (%);3,0;2,7;3,8;3,5;2,3
+ENEMDU;jun-11;Empleo no Remunerado (%);8,5;4,5;16,7;4,5;14,7
+ENEMDU;jun-11;Otro Empleo no pleno(%);31,0;24,2;44,7;30,7;31,5
+ENEMDU;jun-11;Empleo no Clasificado (%);0,9;1,3;0,2;1,0;0,9
+ENEMDU;jun-11;Desempleo (%);5,0;6,4;2,3;4,3;6,1
+ENEMDU;jun-11;Desempleo Abierto (%);3,8;5,2;1,1;3,4;4,5
+ENEMDU;jun-11;Desempleo Oculto (%);1,2;1,2;1,2;0,9;1,6
+ENEMDU;jun-11;Participación Global (%);62,6;61,6;64,6;77,6;48,4
+ENEMDU;jun-11;Participación Bruta (%);45,6;45,9;45,0;56,0;35,7
+ENEMDU;dic-11;Empleo Bruto (%);59,9;59,3;61,0;75,7;45,1
+ENEMDU;dic-11;Empleo Global (%);95,8;94,9;97,6;96,7;94,4
+ENEMDU;dic-11;Empleo Adecuado/Pleno (%);45,5;55,5;25,0;51,8;35,9
+ENEMDU;dic-11;Subempleo (%);10,7;9,5;13,3;10,8;10,7
+ENEMDU;dic-11;Subempleo por insuficiencia de tiempo de trabajo (%);8,5;7,8;9,9;8,2;9,0
+ENEMDU;dic-11;Subempleo por  insuficiencia de ingresos (%);2,2;1,7;3,4;2,6;1,6
+ENEMDU;dic-11;Empleo no Remunerado (%);7,7;4,6;14,0;3,7;13,7
+ENEMDU;dic-11;Otro Empleo no pleno(%);31,3;24,6;45,1;29,6;33,7
+ENEMDU;dic-11;Empleo no Clasificado (%);0,6;0,8;0,2;0,7;0,5
+ENEMDU;dic-11;Desempleo (%);4,2;5,1;2,4;3,3;5,6
+ENEMDU;dic-11;Desempleo Abierto (%);3,0;3,9;1,1;2,4;3,8
+ENEMDU;dic-11;Desempleo Oculto (%);1,2;1,2;1,3;0,9;1,7
+ENEMDU;dic-11;Participación Global (%);62,5;62,5;62,6;78,3;47,8
+ENEMDU;dic-11;Participación Bruta (%);45,5;46,2;44,1;56,2;35,2
+ENEMDU;jun-12;Empleo Bruto (%);61,7;60,2;64,9;76,5;47,8
+ENEMDU;jun-12;Empleo Global (%);95,9;94,8;98,1;96,4;95,1
+ENEMDU;jun-12;Empleo Adecuado/Pleno (%);45,2;54,7;26,1;50,8;36,7
+ENEMDU;jun-12;Subempleo (%);9,7;9,0;11,1;9,7;9,6
+ENEMDU;jun-12;Subempleo por insuficiencia de tiempo de trabajo (%);7,9;7,5;8,7;7,6;8,4
+ENEMDU;jun-12;Subempleo por  insuficiencia de ingresos (%);1,8;1,5;2,5;2,1;1,3
+ENEMDU;jun-12;Empleo no Remunerado (%);9,6;4,9;18,9;5,0;16,5
+ENEMDU;jun-12;Otro Empleo no pleno(%);30,0;24,2;41,7;29,5;30,9
+ENEMDU;jun-12;Empleo no Clasificado (%);1,4;2,0;0,2;1,4;1,4
+ENEMDU;jun-12;Desempleo (%);4,1;5,2;1,9;3,6;4,9
+ENEMDU;jun-12;Desempleo Abierto (%);3,3;4,4;1,1;2,8;4,0
+ENEMDU;jun-12;Desempleo Oculto (%);0,9;0,8;0,9;0,8;0,9
+ENEMDU;jun-12;Participación Global (%);64,4;63,5;66,1;79,3;50,2
+ENEMDU;jun-12;Participación Bruta (%);47,1;47,3;46,8;57,3;37,2
+ENEMDU;dic-12;Empleo Bruto (%);59,1;58,4;60,6;74,1;45,2
+ENEMDU;dic-12;Empleo Global (%);95,9;95,0;97,7;96,3;95,2
+ENEMDU;dic-12;Empleo Adecuado/Pleno (%);46,5;56,5;26,0;51,6;38,9
+ENEMDU;dic-12;Subempleo (%);9,0;7,7;11,8;8,7;9,5
+ENEMDU;dic-12;Subempleo por insuficiencia de tiempo de trabajo (%);7,2;6,4;9,0;6,7;8,1
+ENEMDU;dic-12;Subempleo por  insuficiencia de ingresos (%);1,8;1,3;2,8;2,0;1,4
+ENEMDU;dic-12;Empleo no Remunerado (%);8,0;4,7;14,8;4,3;13,7
+ENEMDU;dic-12;Otro Empleo no pleno(%);30,1;23,0;44,7;29,6;30,9
+ENEMDU;dic-12;Empleo no Clasificado (%);2,2;3,1;0,4;2,2;2,2
+ENEMDU;dic-12;Desempleo (%);4,1;5,0;2,3;3,7;4,8
+ENEMDU;dic-12;Desempleo Abierto (%);3,1;4,0;1,3;2,9;3,6
+ENEMDU;dic-12;Desempleo Oculto (%);1,0;1,0;1,0;0,8;1,2
+ENEMDU;dic-12;Participación Global (%);61,7;61,5;62,0;76,9;47,4
+ENEMDU;dic-12;Participación Bruta (%);45,6;46,2;44,5;56,1;35,6
+ENEMDU;jun-13;Empleo Bruto (%);61,2;59,3;65,1;75,2;48,0
+ENEMDU;jun-13;Empleo Global (%);96,1;95,1;98,0;96,4;95,6
+ENEMDU;jun-13;Empleo Adecuado/Pleno (%);42,8;52,2;24,7;48,5;34,5
+ENEMDU;jun-13;Subempleo (%);11,7;11,5;12,1;11,8;11,6
+ENEMDU;jun-13;Subempleo por insuficiencia de tiempo de trabajo (%);9,6;9,6;9,6;9,1;10,3
+ENEMDU;jun-13;Subempleo por  insuficiencia de ingresos (%);2,1;1,9;2,5;2,7;1,3
+ENEMDU;jun-13;Empleo no Remunerado (%);9,6;4,9;18,5;5,0;16,2
+ENEMDU;jun-13;Otro Empleo no pleno(%);30,7;24,5;42,4;29,7;32,0
+ENEMDU;jun-13;Empleo no Clasificado (%);1,4;1,9;0,2;1,4;1,3
+ENEMDU;jun-13;Desempleo (%);3,9;4,9;2,0;3,6;4,4
+ENEMDU;jun-13;Desempleo Abierto (%);3,1;4,1;1,3;2,9;3,4
+ENEMDU;jun-13;Desempleo Oculto (%);0,8;0,8;0,8;0,7;1,0
+ENEMDU;jun-13;Participación Global (%);63,7;62,3;66,4;77,9;50,2
+ENEMDU;jun-13;Participación Bruta (%);47,3;46,9;48,1;57,1;37,9
+ENEMDU;dic-13;Empleo Bruto (%);59,5;58,1;62,7;74,6;45,1
+ENEMDU;dic-13;Empleo Global (%);95,8;95,1;97,3;96,6;94,6
+ENEMDU;dic-13;Empleo Adecuado/Pleno (%);47,9;56,9;28,9;53,5;39,1
+ENEMDU;dic-13;Subempleo (%);11,6;10,1;14,8;11,6;11,6
+ENEMDU;dic-13;Subempleo por insuficiencia de tiempo de trabajo (%);9,4;8,4;11,5;8,9;10,2
+ENEMDU;dic-13;Subempleo por  insuficiencia de ingresos (%);2,2;1,7;3,2;2,8;1,4
+ENEMDU;dic-13;Empleo no Remunerado (%);7,1;4,0;13,6;3,5;12,7
+ENEMDU;dic-13;Otro Empleo no pleno(%);29,0;23,8;40,1;27,8;30,9
+ENEMDU;dic-13;Empleo no Clasificado (%);0,2;0,3;0,0;0,2;0,2
+ENEMDU;dic-13;Desempleo (%);4,2;4,9;2,7;3,4;5,4
+ENEMDU;dic-13;Desempleo Abierto (%);3,0;3,7;1,4;2,4;3,8
+ENEMDU;dic-13;Desempleo Oculto (%);1,2;1,2;1,3;0,9;1,6
+ENEMDU;dic-13;Participación Global (%);62,1;61,0;64,4;77,2;47,7
+ENEMDU;dic-13;Participación Bruta (%);43,8;43,9;43,5;53,5;34,3
+ENEMDU;mar-14;Empleo Bruto (%);59,7;58,0;63,3;74,9;45,4
+ENEMDU;mar-14;Empleo Global (%);95,1;94,4;96,7;95,5;94,6
+ENEMDU;mar-14;Empleo Adecuado/Pleno (%);45,5;54,9;25,9;49,9;38,8
+ENEMDU;mar-14;Subempleo (%);12,6;10,9;16,3;13,3;11,6
+ENEMDU;mar-14;Subempleo por insuficiencia de tiempo de trabajo (%);10,0;8,7;12,7;9,9;10,2
+ENEMDU;mar-14;Subempleo por  insuficiencia de ingresos (%);2,6;2,1;3,6;3,4;1,4
+ENEMDU;mar-14;Empleo no Remunerado (%);7,1;3,9;13,6;3,5;12,5
+ENEMDU;mar-14;Otro Empleo no pleno(%);29,7;24,4;40,8;28,6;31,5
+ENEMDU;mar-14;Empleo no Clasificado (%);0,3;0,4;0,0;0,3;0,2
+ENEMDU;mar-14;Desempleo (%);4,9;5,6;3,3;4,5;5,4
+ENEMDU;mar-14;Desempleo Abierto (%);3,8;4,7;2,0;3,5;4,2
+ENEMDU;mar-14;Desempleo Oculto (%);1,0;0,9;1,4;0,9;1,2
+ENEMDU;mar-14;Participación Global (%);62,7;61,5;65,5;78,4;48,0
+ENEMDU;mar-14;Participación Bruta (%);44,2;44,2;44,2;54,1;34,6
+ENEMDU;jun-14;Empleo Bruto (%);59,1;58,4;60,8;74,8;44,4
+ENEMDU;jun-14;Empleo Global (%);95,3;94,3;97,7;96,0;94,3
+ENEMDU;jun-14;Empleo Adecuado/Pleno (%);48,8;57,9;28,5;53,4;41,7
+ENEMDU;jun-14;Subempleo (%);12,2;10,6;15,8;12,5;11,7
+ENEMDU;jun-14;Subempleo por insuficiencia de tiempo de trabajo (%);9,6;8,5;12,1;9,3;10,1
+ENEMDU;jun-14;Subempleo por  insuficiencia de ingresos (%);2,6;2,1;3,6;3,2;1,6
+ENEMDU;jun-14;Empleo no Remunerado (%);6,3;3,7;11,9;3,0;11,3
+ENEMDU;jun-14;Otro Empleo no pleno(%);27,8;21,6;41,4;26,7;29,4
+ENEMDU;jun-14;Empleo no Clasificado (%);0,2;0,3;0,0;0,3;0,2
+ENEMDU;jun-14;Desempleo (%);4,7;5,7;2,3;4,0;5,7
+ENEMDU;jun-14;Desempleo Abierto (%);3,7;4,7;1,6;3,3;4,5
+ENEMDU;jun-14;Desempleo Oculto (%);0,9;1,0;0,7;0,7;1,2
+ENEMDU;jun-14;Participación Global (%);62,0;61,9;62,2;77,9;47,0
+ENEMDU;jun-14;Participación Bruta (%);43,5;44,3;41,7;53,6;33,6
+ENEMDU;sep-14;Empleo Bruto (%);60,9;59,4;64,5;76,5;46,2
+ENEMDU;sep-14;Empleo Global (%);96,1;95,3;97,7;96,7;95,1
+ENEMDU;sep-14;Empleo Adecuado/Pleno (%);47,8;57,6;26,8;53,0;39,8
+ENEMDU;sep-14;Subempleo (%);12,5;10,1;17,7;13,4;11,2
+ENEMDU;sep-14;Subempleo por insuficiencia de tiempo de trabajo (%);10,2;8,5;14,0;10,4;10,0
+ENEMDU;sep-14;Subempleo por  insuficiencia de ingresos (%);2,3;1,6;3,7;3,0;1,2
+ENEMDU;sep-14;Empleo no Remunerado (%);7,8;4,4;15,1;3,9;13,8
+ENEMDU;sep-14;Otro Empleo no pleno(%);27,7;22,9;38,1;26,2;30,0
+ENEMDU;sep-14;Empleo no Clasificado (%);0,3;0,4;0,1;0,3;0,3
+ENEMDU;sep-14;Desempleo (%);3,9;4,7;2,3;3,3;4,9
+ENEMDU;sep-14;Desempleo Abierto (%);3,1;3,9;1,5;2,7;3,9
+ENEMDU;sep-14;Desempleo Oculto (%);0,7;0,7;0,8;0,6;1,0
+ENEMDU;sep-14;Participación Global (%);63,4;62,3;65,9;79,1;48,6
+ENEMDU;sep-14;Participación Bruta (%);44,5;44,7;44,0;54,3;34,8
+ENEMDU;dic-14;Empleo Bruto (%);62,0;60,2;66,2;77,2;47,8
+ENEMDU;dic-14;Empleo Global (%);96,2;95,5;97,8;96,9;95,1
+ENEMDU;dic-14;Empleo Adecuado/Pleno (%);49,3;56,4;34,4;56,2;39,0
+ENEMDU;dic-14;Subempleo (%);12,9;11,7;15,3;12,8;13,0
+ENEMDU;dic-14;Subempleo por insuficiencia de tiempo de trabajo (%);10,6;9,7;12,4;9,9;11,5
+ENEMDU;dic-14;Subempleo por  insuficiencia de ingresos (%);2,3;2,0;2,9;2,9;1,5
+ENEMDU;dic-14;Empleo no Remunerado (%);7,1;4,2;13,2;3,4;12,4
+ENEMDU;dic-14;Otro Empleo no pleno(%);26,8;22,9;34,8;24,3;30,5
+ENEMDU;dic-14;Empleo no Clasificado (%);0,2;0,3;0,1;0,2;0,2
+ENEMDU;dic-14;Desempleo (%);3,8;4,5;2,2;3,1;4,9
+ENEMDU;dic-14;Desempleo Abierto (%);3,0;3,7;1,6;2,6;3,6
+ENEMDU;dic-14;Desempleo Oculto (%);0,8;0,8;0,7;0,5;1,3
+ENEMDU;dic-14;Participación Global (%);64,5;63,0;67,7;79,7;50,2
+ENEMDU;dic-14;Participación Bruta (%);44,6;44,5;44,8;53,8;35,5
+ENEMDU;mar-15;Empleo Bruto (%);63,3;59,7;71,3;77,9;49,6
+ENEMDU;mar-15;Empleo Global (%);96,2;95,2;98,1;96,9;95,1
+ENEMDU;mar-15;Empleo Adecuado/Pleno (%);43,7;53,5;24,7;50,4;34,1
+ENEMDU;mar-15;Subempleo (%);13,4;11,9;16,2;13,7;12,9
+ENEMDU;mar-15;Subempleo por insuficiencia de tiempo de trabajo (%);10,6;9,6;12,6;10,2;11,2
+ENEMDU;mar-15;Subempleo por  insuficiencia de ingresos (%);2,7;2,3;3,7;3,5;1,7
+ENEMDU;mar-15;Empleo no Remunerado (%);9,6;4,8;19,1;5,0;16,4
+ENEMDU;mar-15;Otro Empleo no pleno(%);29,1;24,4;38,1;27,5;31,3
+ENEMDU;mar-15;Empleo no Clasificado (%);0,4;0,6;0,0;0,4;0,4
+ENEMDU;mar-15;Desempleo (%);3,8;4,8;1,9;3,1;4,9
+ENEMDU;mar-15;Desempleo Abierto (%);3,3;4,3;1,4;2,7;4,1
+ENEMDU;mar-15;Desempleo Oculto (%);0,5;0,5;0,5;0,4;0,7
+ENEMDU;mar-15;Participación Global (%);65,8;62,8;72,7;80,4;52,2
+ENEMDU;mar-15;Participación Bruta (%);45,6;44,3;48,3;54,3;37,0
+ENEMDU;jun-15;Empleo Bruto (%);62,9;60,2;69,2;77,2;49,4
+ENEMDU;jun-15;Empleo Global (%);95,5;94,4;97,8;96,4;94,3
+ENEMDU;jun-15;Empleo Adecuado/Pleno (%);45,9;54,3;28,7;53,1;35,5
+ENEMDU;jun-15;Subempleo (%);13,2;12,1;15,4;13,5;12,6
+ENEMDU;jun-15;Subempleo por insuficiencia de tiempo de trabajo (%);10,8;10,0;12,4;10,5;11,3
+ENEMDU;jun-15;Subempleo por  insuficiencia de ingresos (%);2,3;2,0;3,0;3,1;1,3
+ENEMDU;jun-15;Empleo no Remunerado (%);8,4;4,5;16,4;3,9;14,8
+ENEMDU;jun-15;Otro Empleo no pleno(%);27,5;22,8;37,2;25,3;30,7
+ENEMDU;jun-15;Empleo no Clasificado (%);0,6;0,8;0,1;0,5;0,6
+ENEMDU;jun-15;Desempleo (%);4,5;5,6;2,2;3,6;5,7
+ENEMDU;jun-15;Desempleo Abierto (%);3,7;4,8;1,4;3,0;4,6
+ENEMDU;jun-15;Desempleo Oculto (%);0,8;0,8;0,8;0,6;1,1
+ENEMDU;jun-15;Participación Global (%);65,9;63,7;70,7;80,1;52,4
+ENEMDU;jun-15;Participación Bruta (%);45,6;45,0;46,9;54,4;37,1
+ENEMDU;sep-15;Empleo Bruto (%);64,3;61,8;70,0;78,2;51,2
+ENEMDU;sep-15;Empleo Global (%);95,7;94,5;98,2;96,6;94,5
+ENEMDU;sep-15;Empleo Adecuado/Pleno (%);46,0;54,4;28,5;52,6;36,8
+ENEMDU;sep-15;Subempleo (%);14,8;13,4;17,6;15,1;14,3
+ENEMDU;sep-15;Subempleo por insuficiencia de tiempo de trabajo (%);12,2;11,2;14,3;11,8;12,7
+ENEMDU;sep-15;Subempleo por  insuficiencia de ingresos (%);2,6;2,2;3,3;3,3;1,6
+ENEMDU;sep-15;Empleo no Remunerado (%);8,6;4,8;16,7;4,3;14,7
+ENEMDU;sep-15;Otro Empleo no pleno(%);25,8;21,3;35,3;24,1;28,2
+ENEMDU;sep-15;Empleo no Clasificado (%);0,5;0,7;0,1;0,5;0,5
+ENEMDU;sep-15;Desempleo (%);4,3;5,5;1,8;3,4;5,5
+ENEMDU;sep-15;Desempleo Abierto (%);3,7;4,8;1,3;3,0;4,6
+ENEMDU;sep-15;Desempleo Oculto (%);0,6;0,7;0,5;0,4;0,9
+ENEMDU;sep-15;Participación Global (%);67,1;65,3;71,3;80,9;54,2
+ENEMDU;sep-15;Participación Bruta (%);46,6;46,4;47,0;55,2;38,2
+ENEMDU;dic-15;Empleo Bruto (%);62,6;61,0;66,4;77,2;48,9
+ENEMDU;dic-15;Empleo Global (%);95,2;94,4;97,1;96,1;93,9
+ENEMDU;dic-15;Empleo Adecuado/Pleno (%);46,5;54,0;30,2;53,1;36,9
+ENEMDU;dic-15;Subempleo (%);14,0;12,7;16,8;14,0;14,1
+ENEMDU;dic-15;Subempleo por insuficiencia de tiempo de trabajo (%);11,3;10,4;13,3;10,6;12,4
+ENEMDU;dic-15;Subempleo por  insuficiencia de ingresos (%);2,7;2,4;3,4;3,4;1,6
+ENEMDU;dic-15;Empleo no Remunerado (%);7,7;4,3;15,0;4,0;13,0
+ENEMDU;dic-15;Otro Empleo no pleno(%);26,4;22,5;35,0;24,3;29,4
+ENEMDU;dic-15;Empleo no Clasificado (%);0,6;0,8;0,2;0,7;0,6
+ENEMDU;dic-15;Desempleo (%);4,8;5,6;2,9;3,9;6,1
+ENEMDU;dic-15;Desempleo Abierto (%);3,7;4,6;1,6;3,2;4,4
+ENEMDU;dic-15;Desempleo Oculto (%);1,1;1,0;1,2;0,7;1,7
+ENEMDU;dic-15;Participación Global (%);65,8;64,6;68,4;80,3;52,0
+ENEMDU;dic-15;Participación Bruta (%);45,7;46,0;45,1;54,9;36,7
+ENEMDU;mar-16;Empleo Bruto (%);64,6;61,3;72,2;77,8;52,4
+ENEMDU;mar-16;Empleo Global (%);94,3;92,6;97,6;95,6;92,6
+ENEMDU;mar-16;Empleo Adecuado/Pleno (%);40,0;48,6;22,4;46,3;31,5
+ENEMDU;mar-16;Subempleo (%);17,1;17,1;17,2;17,7;16,4
+ENEMDU;mar-16;Subempleo por insuficiencia de tiempo de trabajo (%);14,1;14,3;13,7;13,7;14,7
+ENEMDU;mar-16;Subempleo por  insuficiencia de ingresos (%);3,0;2,8;3,5;4,0;1,7
+ENEMDU;mar-16;Empleo no Remunerado (%);10,1;5,2;20,3;5,3;16,6
+ENEMDU;mar-16;Otro Empleo no pleno(%);26,7;21,3;37,7;25,9;27,8
+ENEMDU;mar-16;Empleo no Clasificado (%);0,3;0,4;0,0;0,4;0,2
+ENEMDU;mar-16;Desempleo (%);5,7;7,4;2,4;4,4;7,4
+ENEMDU;mar-16;Desempleo Abierto (%);4,9;6,4;1,9;3,8;6,5
+ENEMDU;mar-16;Desempleo Oculto (%);0,8;0,9;0,5;0,6;0,9
+ENEMDU;mar-16;Participación Global (%);68,6;66,2;73,9;81,4;56,6
+ENEMDU;mar-16;Participación Bruta (%);47,7;47,0;49,3;55,7;40,1
+ENEMDU;jun-16;Empleo Bruto (%);64,2;60,7;72,0;77,7;51,5
+ENEMDU;jun-16;Empleo Global (%);94,7;93,3;97,4;96,0;92,9
+ENEMDU;jun-16;Empleo Adecuado/Pleno (%);41,0;50,0;22,9;48,0;31,6
+ENEMDU;jun-16;Subempleo (%);16,3;15,3;18,4;16,8;15,7
+ENEMDU;jun-16;Subempleo por insuficiencia de tiempo de trabajo (%);13,5;13,0;14,7;13,0;14,3
+ENEMDU;jun-16;Subempleo por  insuficiencia de ingresos (%);2,8;2,3;3,6;3,8;1,4
+ENEMDU;jun-16;Empleo no Remunerado (%);9,7;4,8;19,6;5,1;16,0
+ENEMDU;jun-16;Otro Empleo no pleno(%);27,3;22,8;36,4;25,8;29,4
+ENEMDU;jun-16;Empleo no Clasificado (%);0,3;0,4;0,2;0,4;0,2
+ENEMDU;jun-16;Desempleo (%);5,3;6,7;2,6;4,0;7,1
+ENEMDU;jun-16;Desempleo Abierto (%);4,7;5,9;2,1;3,7;6,0
+ENEMDU;jun-16;Desempleo Oculto (%);0,7;0,7;0,5;0,4;1,1
+ENEMDU;jun-16;Participación Global (%);67,8;65,1;73,9;81,0;55,4
+ENEMDU;jun-16;Participación Bruta (%);47,3;46,4;49,1;55,8;39,1
+ENEMDU;sep-16;Empleo Bruto (%);65,6;61,9;74,2;77,6;54,3
+ENEMDU;sep-16;Empleo Global (%);94,8;93,3;97,7;95,8;93,4
+ENEMDU;sep-16;Empleo Adecuado/Pleno (%);39,2;47,5;22,6;46,0;30,0
+ENEMDU;sep-16;Subempleo (%);19,4;18,0;22,1;20,0;18,6
+ENEMDU;sep-16;Subempleo por insuficiencia de tiempo de trabajo (%);15,8;15,0;17,3;15,2;16,6
+ENEMDU;sep-16;Subempleo por  insuficiencia de ingresos (%);3,6;2,9;4,9;4,8;2,0
+ENEMDU;sep-16;Empleo no Remunerado (%);10,4;5,4;20,1;5,5;16,7
+ENEMDU;sep-16;Otro Empleo no pleno(%);25,6;22,0;32,7;23,9;27,8
+ENEMDU;sep-16;Empleo no Clasificado (%);0,3;0,4;0,2;0,4;0,2
+ENEMDU;sep-16;Desempleo (%);5,2;6,7;2,3;4,2;6,6
+ENEMDU;sep-16;Desempleo Abierto (%);4,5;5,9;1,8;3,7;5,6
+ENEMDU;sep-16;Desempleo Oculto (%);0,7;0,8;0,5;0,5;1,0
+ENEMDU;sep-16;Participación Global (%);69,2;66,3;75,9;80,9;58,1
+ENEMDU;sep-16;Participación Bruta (%);48,6;47,4;51,0;55,9;41,4
+ENEMDU;dic-16;Empleo Bruto (%);63,8;61,1;70,1;76,9;51,4
+ENEMDU;dic-16;Empleo Global (%);94,8;93,5;97,5;95,5;93,8
+ENEMDU;dic-16;Empleo Adecuado/Pleno (%);41,2;47,6;27,8;47,9;31,9
+ENEMDU;dic-16;Subempleo (%);19,9;18,8;22,0;20,4;19,1
+ENEMDU;dic-16;Subempleo por insuficiencia de tiempo de trabajo (%);15,9;15,2;17,5;15,3;16,8
+ENEMDU;dic-16;Subempleo por  insuficiencia de ingresos (%);4,0;3,7;4,6;5,2;2,3
+ENEMDU;dic-16;Empleo no Remunerado (%);8,4;4,9;15,7;4,2;14,2
+ENEMDU;dic-16;Otro Empleo no pleno(%);25,1;21,9;31,9;22,8;28,4
+ENEMDU;dic-16;Empleo no Clasificado (%);0,2;0,3;0,1;0,2;0,2
+ENEMDU;dic-16;Desempleo (%);5,2;6,5;2,5;4,5;6,2
+ENEMDU;dic-16;Desempleo Abierto (%);4,1;5,3;1,6;3,5;4,8
+ENEMDU;dic-16;Desempleo Oculto (%);1,1;1,2;0,9;1,0;1,3
+ENEMDU;dic-16;Participación Global (%);67,3;65,3;71,9;80,6;54,8
+ENEMDU;dic-16;Participación Bruta (%);47,1;46,8;47,8;55,6;38,9
+ENEMDU;mar-17;Empleo Bruto (%);65,9;61,9;75,2;78,1;54,4
+ENEMDU;mar-17;Empleo Global (%);95,6;94,4;98,0;96,4;94,5
+ENEMDU;mar-17;Empleo Adecuado/Pleno (%);38,5;47,3;21,3;45,3;29,5
+ENEMDU;mar-17;Subempleo (%);21,4;20,9;22,2;22,7;19,5
+ENEMDU;mar-17;Subempleo por insuficiencia de tiempo de trabajo (%);17,3;17,2;17,5;17,2;17,5
+ENEMDU;mar-17;Subempleo por  insuficiencia de ingresos (%);4,0;3,7;4,7;5,5;2,1
+ENEMDU;mar-17;Empleo no Remunerado (%);10,9;5,4;21,6;5,4;18,1
+ENEMDU;mar-17;Otro Empleo no pleno(%);24,7;20,5;32,9;22,7;27,3
+ENEMDU;mar-17;Empleo no Clasificado (%);0,2;0,3;0,0;0,2;0,1
+ENEMDU;mar-17;Desempleo (%);4,4;5,6;2,0;3,6;5,5
+ENEMDU;mar-17;Desempleo Abierto (%);3,9;5,1;1,6;3,3;4,7
+ENEMDU;mar-17;Desempleo Oculto (%);0,5;0,6;0,4;0,3;0,8
+ENEMDU;mar-17;Participación Global (%);68,9;65,6;76,6;81,0;57,5
+ENEMDU;mar-17;Participación Bruta (%);48,3;47,0;51,0;55,8;41,0
+ENEMDU;jun-17;Empleo Bruto (%);65,6;61,9;74,2;78,1;53,8
+ENEMDU;jun-17;Empleo Global (%);95,5;94,2;98,1;96,5;94,1
+ENEMDU;jun-17;Empleo Adecuado/Pleno (%);40,1;49,0;22,3;47,0;30,9
+ENEMDU;jun-17;Subempleo (%);20,5;19,1;23,2;21,5;19,1
+ENEMDU;jun-17;Subempleo por insuficiencia de tiempo de trabajo (%);16,2;15,4;17,8;15,7;16,9
+ENEMDU;jun-17;Subempleo por  insuficiencia de ingresos (%);4,3;3,7;5,4;5,8;2,1
+ENEMDU;jun-17;Empleo no Remunerado (%);10,2;5,1;20,4;5,4;16,5
+ENEMDU;jun-17;Otro Empleo no pleno(%);24,3;20,4;32,1;22,1;27,2
+ENEMDU;jun-17;Empleo no Clasificado (%);0,5;0,7;0,1;0,5;0,4
+ENEMDU;jun-17;Desempleo (%);4,5;5,8;1,9;3,5;5,9
+ENEMDU;jun-17;Desempleo Abierto (%);4,0;5,1;1,7;3,1;5,1
+ENEMDU;jun-17;Desempleo Oculto (%);0,5;0,7;0,2;0,4;0,7
+ENEMDU;jun-17;Participación Global (%);68,7;65,7;75,6;80,9;57,2
+ENEMDU;jun-17;Participación Bruta (%);48,7;47,8;50,5;56,4;41,1
+ENEMDU;sep-17;Empleo Bruto (%);66,0;62,5;74,1;78,8;54,0
+ENEMDU;sep-17;Empleo Global (%);95,9;94,6;98,3;96,8;94,6
+ENEMDU;sep-17;Empleo Adecuado/Pleno (%);40,4;48,7;23,6;47,6;30,7
+ENEMDU;sep-17;Subempleo (%);20,5;19,3;23,0;20,6;20,4
+ENEMDU;sep-17;Subempleo por insuficiencia de tiempo de trabajo (%);16,3;15,6;17,6;14,9;18,0
+ENEMDU;sep-17;Subempleo por  insuficiencia de ingresos (%);4,3;3,7;5,5;5,7;2,3
+ENEMDU;sep-17;Empleo no Remunerado (%);10,1;5,2;19,8;5,7;15,8
+ENEMDU;sep-17;Otro Empleo no pleno(%);24,7;21,2;31,8;22,6;27,5
+ENEMDU;sep-17;Empleo no Clasificado (%);0,2;0,3;0,0;0,2;0,1
+ENEMDU;sep-17;Desempleo (%);4,1;5,4;1,7;3,2;5,4
+ENEMDU;sep-17;Desempleo Abierto (%);3,6;4,8;1,3;2,8;4,7
+ENEMDU;sep-17;Desempleo Oculto (%);0,5;0,6;0,4;0,3;0,8
+ENEMDU;sep-17;Participación Global (%);68,9;66,0;75,4;81,4;57,1
+ENEMDU;sep-17;Participación Bruta (%);48,6;47,7;50,6;56,4;41,0
+ENEMDU;dic-17;Empleo Bruto (%);64,6;62,0;70,6;77,7;52,2
+ENEMDU;dic-17;Empleo Global (%);95,4;94,2;97,9;96,4;94,0
+ENEMDU;dic-17;Empleo Adecuado/Pleno (%);42,3;50,4;25,1;49,5;32,4
+ENEMDU;dic-17;Subempleo (%);19,8;18,4;22,8;20,0;19,6
+ENEMDU;dic-17;Subempleo por insuficiencia de tiempo de trabajo (%);15,3;14,4;17,1;14,1;16,9
+ENEMDU;dic-17;Subempleo por  insuficiencia de ingresos (%);4,5;4,0;5,7;5,9;2,7
+ENEMDU;dic-17;Empleo no Remunerado (%);9,0;4,9;17,6;4,4;15,3
+ENEMDU;dic-17;Otro Empleo no pleno(%);24,1;20,3;32,3;22,3;26,6
+ENEMDU;dic-17;Empleo no Clasificado (%);0,2;0,2;0,0;0,2;0,1
+ENEMDU;dic-17;Desempleo (%);4,6;5,8;2,1;3,6;6,0
+ENEMDU;dic-17;Desempleo Abierto (%);3,7;4,9;1,3;2,9;4,9
+ENEMDU;dic-17;Desempleo Oculto (%);0,9;1,0;0,8;0,7;1,2
+ENEMDU;dic-17;Participación Global (%);67,7;65,9;72,1;80,6;55,6
+ENEMDU;dic-17;Participación Bruta (%);47,7;47,4;48,2;55,6;39,9
+ENEMDU;mar-18;Empleo Bruto (%);65,1;61,5;73,3;78,6;52,4
+ENEMDU;mar-18;Empleo Global (%);95,6;94,3;98,1;96,5;94,2
+ENEMDU;mar-18;Empleo Adecuado/Pleno (%);41,1;50,1;23,1;47,2;32,6
+ENEMDU;mar-18;Subempleo (%);18,3;17,3;20,4;19,4;16,8
+ENEMDU;mar-18;Subempleo por insuficiencia de tiempo de trabajo (%);14,6;14,1;15,7;14,5;14,8
+ENEMDU;mar-18;Subempleo por  insuficiencia de ingresos (%);3,7;3,2;4,7;4,9;2,1
+ENEMDU;mar-18;Empleo no Remunerado (%);10,2;5,1;20,4;5,3;17,0
+ENEMDU;mar-18;Otro Empleo no pleno(%);25,7;21,5;34,1;24,3;27,6
+ENEMDU;mar-18;Empleo no Clasificado (%);0,2;0,3;0,0;0,3;0,2
+ENEMDU;mar-18;Desempleo (%);4,4;5,7;1,9;3,5;5,8
+ENEMDU;mar-18;Desempleo Abierto (%);4,0;5,2;1,5;3,1;5,2
+ENEMDU;mar-18;Desempleo Oculto (%);0,4;0,4;0,4;0,3;0,6
+ENEMDU;mar-18;Participación Global (%);68,1;65,2;74,7;81,4;55,6
+ENEMDU;mar-18;Participación Bruta (%);48,0;46,8;50,6;56,6;39,7
+ENEMDU;jun-18;Empleo Bruto (%);63,6;59,9;72,1;76,1;51,7
+ENEMDU;jun-18;Empleo Global (%);95,9;94,8;98,0;96,6;94,9
+ENEMDU;jun-18;Empleo Adecuado/Pleno (%);38,9;47,6;21,8;46,1;29,0
+ENEMDU;jun-18;Subempleo (%);19,4;18,4;21,1;20,6;17,6
+ENEMDU;jun-18;Subempleo por insuficiencia de tiempo de trabajo (%);15,3;14,7;16,6;15,0;15,8
+ENEMDU;jun-18;Subempleo por  insuficiencia de ingresos (%);4,0;3,8;4,5;5,6;1,8
+ENEMDU;jun-18;Empleo no Remunerado (%);10,5;5,1;21,1;5,3;17,7
+ENEMDU;jun-18;Otro Empleo no pleno(%);26,5;22,8;33,8;23,9;30,1
+ENEMDU;jun-18;Empleo no Clasificado (%);0,5;0,7;0,2;0,6;0,5
+ENEMDU;jun-18;Desempleo (%);4,1;5,2;2,0;3,4;5,1
+ENEMDU;jun-18;Desempleo Abierto (%);3,6;4,7;1,3;3,0;4,4
+ENEMDU;jun-18;Desempleo Oculto (%);0,5;0,5;0,7;0,4;0,7
+ENEMDU;jun-18;Participación Global (%);66,4;63,2;73,6;78,9;54,4
+ENEMDU;jun-18;Participación Bruta (%);46,8;45,5;49,5;54,8;38,9
+ENEMDU;sep-18;Empleo Bruto (%);65,4;61,8;73,5;77,3;53,9
+ENEMDU;sep-18;Empleo Global (%);96,0;94,8;98,3;96,6;95,2
+ENEMDU;sep-18;Empleo Adecuado/Pleno (%);39,6;48,8;21,2;46,8;29,9
+ENEMDU;sep-18;Subempleo (%);19,4;17,9;22,5;20,2;18,4
+ENEMDU;sep-18;Subempleo por insuficiencia de tiempo de trabajo (%);15,7;14,6;17,8;15,4;16,1
+ENEMDU;sep-18;Subempleo por  insuficiencia de ingresos (%);3,7;3,3;4,7;4,8;2,3
+ENEMDU;sep-18;Empleo no Remunerado (%);10,6;5,3;21,5;5,2;17,9
+ENEMDU;sep-18;Otro Empleo no pleno(%);25,7;22,0;33,1;23,7;28,5
+ENEMDU;sep-18;Empleo no Clasificado (%);0,6;0,9;0,1;0,7;0,5
+ENEMDU;sep-18;Desempleo (%);4,0;5,2;1,7;3,4;4,8
+ENEMDU;sep-18;Desempleo Abierto (%);3,4;4,5;1,2;2,9;4,2
+ENEMDU;sep-18;Desempleo Oculto (%);0,6;0,7;0,5;0,6;0,6
+ENEMDU;sep-18;Participación Global (%);68,1;65,2;74,7;80,1;56,6
+ENEMDU;sep-18;Participación Bruta (%);48,4;47,4;50,6;56,9;40,3
+ENEMDU;dic-18;Empleo Bruto (%);63,2;60,1;70,3;75,9;51,0
+ENEMDU;dic-18;Empleo Global (%);96,3;95,2;98,6;96,9;95,5
+ENEMDU;dic-18;Empleo Adecuado/Pleno (%);40,6;49,3;23,0;46,5;32,5
+ENEMDU;dic-18;Subempleo (%);16,5;16,3;16,8;17,2;15,5
+ENEMDU;dic-18;Subempleo por insuficiencia de tiempo de trabajo (%);13,4;13,3;13,6;13,2;13,6
+ENEMDU;dic-18;Subempleo por  insuficiencia de ingresos (%);3,1;3,0;3,3;3,9;1,9
+ENEMDU;dic-18;Empleo no Remunerado (%);9,9;4,9;20,3;5,1;16,8
+ENEMDU;dic-18;Otro Empleo no pleno(%);28,8;24,1;38,3;27,7;30,4
+ENEMDU;dic-18;Empleo no Clasificado (%);0,4;0,6;0,0;0,4;0,4
+ENEMDU;dic-18;Desempleo (%);3,7;4,8;1,4;3,1;4,5
+ENEMDU;dic-18;Desempleo Abierto (%);3,0;4,0;0,9;2,6;3,5
+ENEMDU;dic-18;Desempleo Oculto (%);0,7;0,8;0,5;0,6;0,9
+ENEMDU;dic-18;Participación Global (%);65,6;63,1;71,3;78,3;53,4
+ENEMDU;dic-18;Participación Bruta (%);46,6;45,8;48,3;55,6;38,0
+ENEMDU;mar-19;Empleo Bruto (%);63,4;59,4;72,7;76,1;51,3
+ENEMDU;mar-19;Empleo Global (%);95,4;94,2;97,8;96,2;94,3
+ENEMDU;mar-19;Empleo Adecuado/Pleno (%);37,9;47,0;20,2;43,8;29,8
+ENEMDU;mar-19;Subempleo (%);18,7;18,5;19,1;20,5;16,1
+ENEMDU;mar-19;Subempleo por insuficiencia de tiempo de trabajo (%);15,6;15,6;15,6;16,4;14,6
+ENEMDU;mar-19;Subempleo por  insuficiencia de ingresos (%);3,0;2,8;3,5;4,1;1,6
+ENEMDU;mar-19;Empleo no Remunerado (%);11,0;4,7;23,2;5,6;18,5
+ENEMDU;mar-19;Otro Empleo no pleno(%);27,2;23,2;35,2;25,7;29,4
+ENEMDU;mar-19;Empleo no Clasificado (%);0,6;0,9;0,1;0,7;0,5
+ENEMDU;mar-19;Desempleo (%);4,6;5,8;2,2;3,8;5,7
+ENEMDU;mar-19;Desempleo Abierto (%);3,9;5,0;1,7;3,3;4,7
+ENEMDU;mar-19;Desempleo Oculto (%);0,7;0,8;0,6;0,5;1,0
+ENEMDU;mar-19;Participación Global (%);66,5;63,1;74,3;79,1;54,4
+ENEMDU;mar-19;Participación Bruta (%);47,3;45,8;50,3;56,2;38,7
+ENEMDU;jun-19;Empleo Bruto (%);63,9;59,8;73,2;75,8;52,5
+ENEMDU;jun-19;Empleo Global (%);95,6;94,4;97,7;96,3;94,5
+ENEMDU;jun-19;Empleo Adecuado/Pleno (%);37,9;47,0;20,5;44,8;28,7
+ENEMDU;jun-19;Subempleo (%);20,3;19,1;22,5;21,1;19,0
+ENEMDU;jun-19;Subempleo por insuficiencia de tiempo de trabajo (%);16,7;16,0;18,1;17,0;16,4
+ENEMDU;jun-19;Subempleo por  insuficiencia de ingresos (%);3,5;3,0;4,5;4,2;2,6
+ENEMDU;jun-19;Empleo no Remunerado (%);10,4;4,8;21,1;5,8;16,7
+ENEMDU;jun-19;Otro Empleo no pleno(%);26,4;22,7;33,5;24,0;29,6
+ENEMDU;jun-19;Empleo no Clasificado (%);0,6;0,9;0,1;0,7;0,5
+ENEMDU;jun-19;Desempleo (%);4,4;5,6;2,3;3,7;5,5
+ENEMDU;jun-19;Desempleo Abierto (%);3,7;4,7;1,6;3,1;4,4
+ENEMDU;jun-19;Desempleo Oculto (%);0,8;0,8;0,6;0,5;1,1
+ENEMDU;jun-19;Participación Global (%);66,8;63,3;74,9;78,6;55,5
+ENEMDU;jun-19;Participación Bruta (%);47,5;46,0;50,7;55,8;39,5
+ENEMDU;sep-19;Empleo Bruto (%);64,5;60,8;73,0;76,2;53,3
+ENEMDU;sep-19;Empleo Global (%);95,1;94,1;97,3;96,0;94,0
+ENEMDU;sep-19;Empleo Adecuado/Pleno (%);38,5;47,3;21,1;44,8;30,1
+ENEMDU;sep-19;Subempleo (%);19,7;18,4;22,2;21,0;18,0
+ENEMDU;sep-19;Subempleo por insuficiencia de tiempo de trabajo (%);16,3;15,6;17,9;16,6;16,0
+ENEMDU;sep-19;Subempleo por  insuficiencia de ingresos (%);3,3;2,8;4,3;4,4;1,9
+ENEMDU;sep-19;Empleo no Remunerado (%);10,4;4,9;21,3;5,2;17,4
+ENEMDU;sep-19;Otro Empleo no pleno(%);25,9;22,6;32,4;24,3;28,0
+ENEMDU;sep-19;Empleo no Clasificado (%);0,6;0,9;0,1;0,7;0,5
+ENEMDU;sep-19;Desempleo (%);4,9;5,9;2,7;4,0;6,0
+ENEMDU;sep-19;Desempleo Abierto (%);4,1;5,2;2,0;3,4;5,2
+ENEMDU;sep-19;Desempleo Oculto (%);0,7;0,7;0,7;0,6;0,8
+ENEMDU;sep-19;Participación Global (%);67,8;64,6;75,0;79,4;56,7
+ENEMDU;sep-19;Participación Bruta (%);48,2;47,0;50,8;56,4;40,3
+ENEMDU;dic-19;Empleo Bruto (%);62,8;59,2;71,1;75,1;51,0
+ENEMDU;dic-19;Empleo Global (%);96,2;95,1;98,4;96,7;95,4
+ENEMDU;dic-19;Empleo Adecuado/Pleno (%);38,8;48,0;20,6;44,8;30,6
+ENEMDU;dic-19;Subempleo (%);17,8;17,0;19,4;19,0;16,2
+ENEMDU;dic-19;Subempleo por insuficiencia de tiempo de trabajo (%);14,7;14,4;15,4;15,0;14,3
+ENEMDU;dic-19;Subempleo por  insuficiencia de ingresos (%);3,1;2,6;4,0;4,0;1,9
+ENEMDU;dic-19;Empleo no Remunerado (%);10,9;4,9;22,9;5,5;18,4
+ENEMDU;dic-19;Otro Empleo no pleno(%);28,0;24,3;35,3;26,8;29,6
+ENEMDU;dic-19;Empleo no Clasificado (%);0,6;0,9;0,1;0,6;0,6
+ENEMDU;dic-19;Desempleo (%);3,8;4,9;1,6;3,3;4,6
+ENEMDU;dic-19;Desempleo Abierto (%);3,4;4,4;1,2;3,1;3,8
+ENEMDU;dic-19;Desempleo Oculto (%);0,5;0,5;0,5;0,2;0,9
+ENEMDU;dic-19;Participación Global (%);65,3;62,3;72,3;77,7;53,5
+ENEMDU;dic-19;Participación Bruta (%);46,4;45,2;48,9;55,2;38,0
+ENEMDU*;sep-20;Empleo Bruto (%);59,9;55,6;69,7;72,9;47,4
+ENEMDU*;sep-20;Empleo Global (%);93,8;92,0;97,5;94,8;92,5
+ENEMDU*;sep-20;Empleo Adecuado/Pleno (%);30,8;38,1;16,4;35,1;24,5
+ENEMDU*;sep-20;Subempleo (%);24,4;24,4;24,3;25,1;23,4
+ENEMDU*;sep-20;Subempleo por insuficiencia de tiempo de trabajo (%);21,7;21,8;21,6;21,6;21,9
+ENEMDU*;sep-20;Subempleo por  insuficiencia de ingresos (%);2,7;2,7;2,7;3,5;1,6
+ENEMDU*;sep-20;Empleo no Remunerado (%);11,8;5,4;24,3;7,2;18,5
+ENEMDU*;sep-20;Otro Empleo no pleno(%);26,2;23,1;32,2;26,8;25,2
+ENEMDU*;sep-20;Empleo no Clasificado (%);0,7;0,9;0,3;0,6;0,8
+ENEMDU*;sep-20;Desempleo (%);6,2;8,0;2,5;5,2;7,5
+ENEMDU*;sep-20;Desempleo Abierto (%);5,4;7,1;2,0;4,5;6,7
+ENEMDU*;sep-20;Desempleo Oculto (%);0,8;0,9;0,5;0,7;0,9
+ENEMDU*;sep-20;Participación Global (%);63,8;60,4;71,5;76,9;51,2
+ENEMDU*;sep-20;Participación Bruta (%);45,3;43,9;48,4;54,6;36,4
+ENEMDU*;oct-20;Empleo Bruto (%);62,2;57,9;72,2;75,7;49,3
+ENEMDU*;oct-20;Empleo Global (%);94,2;92,4;97,7;95,2;92,9
+ENEMDU*;oct-20;Empleo Adecuado/Pleno (%);28,2;33,7;17,5;32,3;22,4
+ENEMDU*;oct-20;Subempleo (%);25,9;27,7;22,4;27,8;23,2
+ENEMDU*;oct-20;Subempleo por insuficiencia de tiempo de trabajo (%);22,8;24,7;19,1;23,8;21,4
+ENEMDU*;oct-20;Subempleo por  insuficiencia de ingresos (%);3,1;3,0;3,3;4,0;1,8
+ENEMDU*;oct-20;Empleo no Remunerado (%);12,4;5,7;25,4;7,3;19,8
+ENEMDU*;oct-20;Otro Empleo no pleno(%);26,8;24,1;32,2;26,8;26,8
+ENEMDU*;oct-20;Empleo no Clasificado (%);0,9;1,2;0,2;0,9;0,8
+ENEMDU*;oct-20;Desempleo (%);5,8;7,6;2,3;4,8;7,1
+ENEMDU*;oct-20;Desempleo Abierto (%);5,1;6,7;1,9;4,4;6,0
+ENEMDU*;oct-20;Desempleo Oculto (%);0,7;0,9;0,4;0,5;1,0
+ENEMDU*;oct-20;Participación Global (%);66,0;62,6;73,9;79,6;53,1
+ENEMDU*;oct-20;Participación Bruta (%);46,9;45,5;50,0;56,5;37,7
+ENEMDU*;nov-20;Empleo Bruto (%);61,3;56,6;72,0;74,3;48,8
+ENEMDU*;nov-20;Empleo Global (%);94,4;92,3;98,3;95,1;93,3
+ENEMDU*;nov-20;Empleo Adecuado/Pleno (%);28,5;35,2;15,7;33,3;21,7
+ENEMDU*;nov-20;Subempleo (%);24,1;23,8;24,7;26,7;20,5
+ENEMDU*;nov-20;Subempleo por insuficiencia de tiempo de trabajo (%);21,8;21,5;22,4;23,6;19,2
+ENEMDU*;nov-20;Subempleo por  insuficiencia de ingresos (%);2,3;2,3;2,3;3,1;1,2
+ENEMDU*;nov-20;Empleo no Remunerado (%);11,2;5,0;23,2;5,6;19,2
+ENEMDU*;nov-20;Otro Empleo no pleno(%);29,6;27,1;34,5;28,7;31,0
+ENEMDU*;nov-20;Empleo no Clasificado (%);0,9;1,2;0,2;0,9;0,9
+ENEMDU*;nov-20;Desempleo (%);5,6;7,7;1,7;4,9;6,7
+ENEMDU*;nov-20;Desempleo Abierto (%);4,9;6,7;1,3;4,1;6,0
+ENEMDU*;nov-20;Desempleo Oculto (%);0,8;0,9;0,4;0,7;0,8
+ENEMDU*;nov-20;Participación Global (%);65,0;61,4;73,3;78,1;52,3
+ENEMDU*;nov-20;Participación Bruta (%);46,2;44,6;49,6;55,5;37,2
+ENEMDU*;dic-20;Empleo Bruto (%);61,1;57,5;69,6;74,3;48,6
+ENEMDU*;dic-20;Empleo Global (%);95,1;94,0;97,3;96,4;93,2
+ENEMDU*;dic-20;Empleo Adecuado/Pleno (%);30,4;37,2;17,1;35,3;23,5
+ENEMDU*;dic-20;Subempleo (%);22,9;24,2;20,2;24,6;20,4
+ENEMDU*;dic-20;Subempleo por insuficiencia de tiempo de trabajo (%);20,3;21,8;17,3;21,2;19,0
+ENEMDU*;dic-20;Subempleo por  insuficiencia de ingresos (%);2,6;2,4;2,9;3,4;1,4
+ENEMDU*;dic-20;Empleo no Remunerado (%);12,7;5,5;26,9;7,7;19,8
+ENEMDU*;dic-20;Otro Empleo no pleno(%);28,2;25,8;33,0;28,0;28,6
+ENEMDU*;dic-20;Empleo no Clasificado (%);0,9;1,2;0,2;0,8;0,9
+ENEMDU*;dic-20;Desempleo (%);4,9;6,0;2,7;3,6;6,8
+ENEMDU*;dic-20;Desempleo Abierto (%);4,0;5,0;2,0;2,8;5,6
+ENEMDU*;dic-20;Desempleo Oculto (%);0,9;1,0;0,7;0,8;1,2
+ENEMDU*;dic-20;Participación Global (%);64,3;61,2;71,5;77,0;52,1
+ENEMDU*;dic-20;Participación Bruta (%);45,7;44,4;48,4;54,7;37,1
+ENEMDU*;ene-21;Empleo Bruto (%);62,8;57,6;74,7;75,2;50,8
+ENEMDU*;ene-21;Empleo Global (%);94,7;93,1;97,7;95,6;93,4
+ENEMDU*;ene-21;Empleo Adecuado/Pleno (%);32,0;40,6;15,9;37,1;25,0
+ENEMDU*;ene-21;Subempleo (%);22,5;22,6;22,5;24,3;20,0
+ENEMDU*;ene-21;Subempleo por insuficiencia de tiempo de trabajo (%);19,8;19,9;19,7;20,4;19,0
+ENEMDU*;ene-21;Subempleo por  insuficiencia de ingresos (%);2,7;2,7;2,8;3,9;1,0
+ENEMDU*;ene-21;Empleo no Remunerado (%);13,1;6,2;25,8;7,6;20,6
+ENEMDU*;ene-21;Otro Empleo no pleno(%);26,3;22,5;33,4;25,7;27,1
+ENEMDU*;ene-21;Empleo no Clasificado (%);0,8;1,2;0,1;0,8;0,8
+ENEMDU*;ene-21;Desempleo (%);5,3;6,9;2,3;4,4;6,6
+ENEMDU*;ene-21;Desempleo Abierto (%);4,5;5,9;1,9;3,7;5,6
+ENEMDU*;ene-21;Desempleo Oculto (%);0,8;1,0;0,4;0,7;1,0
+ENEMDU*;ene-21;Participación Global (%);66,3;61,9;76,4;78,7;54,4
+ENEMDU*;ene-21;Participación Bruta (%);47,1;45,0;51,7;55,9;38,7
+ENEMDU*;feb-21;Empleo Bruto (%);61,8;57,5;71,8;74,4;49,8
+ENEMDU*;feb-21;Empleo Global (%);94,6;93,1;97,4;95,8;92,9
+ENEMDU*;feb-21;Empleo Adecuado/Pleno (%);31,3;38,8;16,8;35,4;25,6
+ENEMDU*;feb-21;Subempleo (%);23,3;23,5;23,1;26,2;19,4
+ENEMDU*;feb-21;Subempleo por insuficiencia de tiempo de trabajo (%);20,6;20,9;20,1;22,6;17,9
+ENEMDU*;feb-21;Subempleo por  insuficiencia de ingresos (%);2,7;2,6;2,9;3,6;1,5
+ENEMDU*;feb-21;Empleo no Remunerado (%);12,0;5,9;23,8;6,8;19,3
+ENEMDU*;feb-21;Otro Empleo no pleno(%);26,8;23,3;33,4;26,3;27,5
+ENEMDU*;feb-21;Empleo no Clasificado (%);1,1;1,6;0,2;1,1;1,1
+ENEMDU*;feb-21;Desempleo (%);5,4;6,9;2,6;4,2;7,1
+ENEMDU*;feb-21;Desempleo Abierto (%);4,8;6,0;2,5;3,7;6,4
+ENEMDU*;feb-21;Desempleo Oculto (%);0,6;0,9;0,1;0,5;0,7
+ENEMDU*;feb-21;Participación Global (%);65,4;61,7;73,7;77,7;53,6
+ENEMDU*;feb-21;Participación Bruta (%);46,4;44,8;49,9;55,1;38,1
+ENEMDU*;mar-21;Empleo Bruto (%);60,7;56,3;70,8;74,5;47,5
+ENEMDU*;mar-21;Empleo Global (%);95,1;93,9;97,4;96,1;93,6
+ENEMDU*;mar-21;Empleo Adecuado/Pleno (%);31,6;39,0;17,7;35,4;26,2
+ENEMDU*;mar-21;Subempleo (%);23,0;23,4;22,3;25,2;19,8
+ENEMDU*;mar-21;Subempleo por insuficiencia de tiempo de trabajo (%);20,8;21,2;20,0;22,4;18,4
+ENEMDU*;mar-21;Subempleo por  insuficiencia de ingresos (%);2,2;2,2;2,3;2,8;1,4
+ENEMDU*;mar-21;Empleo no Remunerado (%);12,6;5,8;25,5;7,6;19,9
+ENEMDU*;mar-21;Otro Empleo no pleno(%);27,2;24,8;31,7;27,2;27,2
+ENEMDU*;mar-21;Empleo no Clasificado (%);0,7;0,9;0,2;0,8;0,5
+ENEMDU*;mar-21;Desempleo (%);4,9;6,1;2,6;3,9;6,4
+ENEMDU*;mar-21;Desempleo Abierto (%);4,2;5,3;2,1;3,3;5,4
+ENEMDU*;mar-21;Desempleo Oculto (%);0,7;0,8;0,4;0,5;0,9
+ENEMDU*;mar-21;Participación Global (%);63,8;60,0;72,7;77,5;50,8
+ENEMDU*;mar-21;Participación Bruta (%);45,4;43,6;49,2;55,0;36,1
+ENEMDU*;abr-21;Empleo Bruto (%);62,5;57,5;74,1;75,0;50,6
+ENEMDU*;abr-21;Empleo Global (%);94,9;93,2;98,0;95,8;93,6
+ENEMDU*;abr-21;Empleo Adecuado/Pleno (%);30,8;38,3;16,8;35,1;24,9
+ENEMDU*;abr-21;Subempleo (%);23,3;23,7;22,6;24,7;21,4
+ENEMDU*;abr-21;Subempleo por insuficiencia de tiempo de trabajo (%);21,3;21,7;20,4;21,9;20,4
+ENEMDU*;abr-21;Subempleo por  insuficiencia de ingresos (%);2,1;2,0;2,2;2,8;1,1
+ENEMDU*;abr-21;Empleo no Remunerado (%);13,0;5,6;26,8;7,8;20,2
+ENEMDU*;abr-21;Otro Empleo no pleno(%);27,0;24,5;31,6;27,3;26,4
+ENEMDU*;abr-21;Empleo no Clasificado (%);0,8;1,2;0,1;0,9;0,7
+ENEMDU*;abr-21;Desempleo (%);5,1;6,8;2,0;4,2;6,4
+ENEMDU*;abr-21;Desempleo Abierto (%);4,5;6,0;1,8;3,8;5,5
+ENEMDU*;abr-21;Desempleo Oculto (%);0,6;0,8;0,2;0,4;0,9
+ENEMDU*;abr-21;Participación Global (%);65,9;61,7;75,6;78,3;54,0
+ENEMDU*;abr-21;Participación Bruta (%);46,8;44,8;51,2;55,6;38,4
+ENEMDU*;may-21;Empleo Bruto (%);63,0;58,0;74,4;74,5;51,9
+ENEMDU*;may-21;Empleo Global (%);93,7;91,5;97,9;94,2;92,9
+ENEMDU*;may-21;Empleo Adecuado/Pleno (%);30,2;37,4;16,5;35,8;22,6
+ENEMDU*;may-21;Subempleo (%);23,2;22,8;23,8;25,3;20,3
+ENEMDU*;may-21;Subempleo por insuficiencia de tiempo de trabajo (%);20,5;20,7;20,2;22,0;18,5
+ENEMDU*;may-21;Subempleo por  insuficiencia de ingresos (%);2,7;2,2;3,6;3,4;1,8
+ENEMDU*;may-21;Empleo no Remunerado (%);12,7;6,2;25,2;7,0;20,5
+ENEMDU*;may-21;Otro Empleo no pleno(%);26,5;23,4;32,3;24,9;28,5
+ENEMDU*;may-21;Empleo no Clasificado (%);1,1;1,7;0,0;1,1;1,1
+ENEMDU*;may-21;Desempleo (%);6,3;8,5;2,1;5,8;7,1
+ENEMDU*;may-21;Desempleo Abierto (%);5,7;7,6;2,0;5,3;6,2
+ENEMDU*;may-21;Desempleo Oculto (%);0,6;0,9;0,1;0,5;0,8
+ENEMDU*;may-21;Participación Global (%);67,2;63,4;76,0;79,1;55,8
+ENEMDU*;may-21;Participación Bruta (%);47,8;46,1;51,4;56,2;39,7
+ENEMDU*;jun-21;Empleo Bruto (%);62,4;58,5;71,5;75,4;50,1
+ENEMDU*;jun-21;Empleo Global (%);94,9;93,2;98,1;96,0;93,3
+ENEMDU*;jun-21;Empleo Adecuado/Pleno (%);31,3;38,1;17,6;35,9;24,8
+ENEMDU*;jun-21;Subempleo (%);23,0;23,7;21,7;24,8;20,5
+ENEMDU*;jun-21;Subempleo por insuficiencia de tiempo de trabajo (%);20,5;21,3;18,8;21,6;19,0
+ENEMDU*;jun-21;Subempleo por  insuficiencia de ingresos (%);2,5;2,3;2,9;3,2;1,6
+ENEMDU*;jun-21;Empleo no Remunerado (%);12,9;5,9;26,7;7,6;20,3
+ENEMDU*;jun-21;Otro Empleo no pleno(%);27,1;24,5;32,0;27,0;27,1
+ENEMDU*;jun-21;Empleo no Clasificado (%);0,7;1,0;0,1;0,7;0,6
+ENEMDU*;jun-21;Desempleo (%);5,1;6,8;1,9;4,0;6,7
+ENEMDU*;jun-21;Desempleo Abierto (%);4,7;6,2;1,6;3,7;6,1
+ENEMDU*;jun-21;Desempleo Oculto (%);0,4;0,5;0,3;0,3;0,6
+ENEMDU*;jun-21;Participación Global (%);65,8;62,7;72,9;78,5;53,7
+ENEMDU*;jun-21;Participación Bruta (%);46,8;45,6;49,3;55,8;38,2
+ENEMDU*;jul-21;Empleo Bruto (%);61,9;58,2;70,4;75,1;49,3
+ENEMDU*;jul-21;Empleo Global (%);94,8;93,6;97,3;96,2;92,9
+ENEMDU*;jul-21;Empleo Adecuado/Pleno (%);31,8;38,6;18,4;37,0;24,5
+ENEMDU*;jul-21;Subempleo (%);24,6;25,3;23,2;25,9;22,7
+ENEMDU*;jul-21;Subempleo por insuficiencia de tiempo de trabajo (%);21,9;23,0;19,9;22,5;21,0
+ENEMDU*;jul-21;Subempleo por  insuficiencia de ingresos (%);2,7;2,3;3,3;3,4;1,6
+ENEMDU*;jul-21;Empleo no Remunerado (%);11,1;4,7;23,6;6,3;17,8
+ENEMDU*;jul-21;Otro Empleo no pleno(%);26,6;23,9;32,0;26,3;27,2
+ENEMDU*;jul-21;Empleo no Clasificado (%);0,8;1,1;0,0;0,7;0,8
+ENEMDU*;jul-21;Desempleo (%);5,2;6,4;2,7;3,8;7,1
+ENEMDU*;jul-21;Desempleo Abierto (%);4,7;5,9;2,4;3,5;6,5
+ENEMDU*;jul-21;Desempleo Oculto (%);0,5;0,5;0,3;0,3;0,6
+ENEMDU*;jul-21;Participación Global (%);65,3;62,2;72,4;78,1;53,1
+ENEMDU*;jul-21;Participación Bruta (%);46,4;45,2;49,0;55,5;37,7
+ENEMDU*;ago-21;Empleo Bruto (%);64,0;59,8;73,6;76,9;51,7
+ENEMDU*;ago-21;Empleo Global (%);95,1;93,8;97,8;96,0;93,9
+ENEMDU*;ago-21;Empleo Adecuado/Pleno (%);32,4;39,7;18,4;37,4;25,5
+ENEMDU*;ago-21;Subempleo (%);22,1;21,6;23,0;24,6;18,6
+ENEMDU*;ago-21;Subempleo por insuficiencia de tiempo de trabajo (%);19,4;19,3;19,5;21,2;17,0
+ENEMDU*;ago-21;Subempleo por  insuficiencia de ingresos (%);2,7;2,3;3,4;3,5;1,6
+ENEMDU*;ago-21;Empleo no Remunerado (%);11,1;5,6;22,0;6,1;18,1
+ENEMDU*;ago-21;Otro Empleo no pleno(%);28,7;25,8;34,4;27,1;30,9
+ENEMDU*;ago-21;Empleo no Clasificado (%);0,8;1,1;0,1;0,8;0,7
+ENEMDU*;ago-21;Desempleo (%);4,9;6,2;2,2;4,0;6,1
+ENEMDU*;ago-21;Desempleo Abierto (%);4,3;5,5;1,9;3,5;5,4
+ENEMDU*;ago-21;Desempleo Oculto (%);0,6;0,7;0,3;0,5;0,7
+ENEMDU*;ago-21;Participación Global (%);67,3;63,8;75,2;80,0;55,0
+ENEMDU*;ago-21;Participación Bruta (%);47,8;46,3;51,0;56,8;39,2
+ENEMDU*;sep-21;Empleo Bruto (%);63,4;58,9;73,8;75,7;51,7
+ENEMDU*;sep-21;Empleo Global (%);95,1;93,5;98,3;96,1;93,8
+ENEMDU*;sep-21;Empleo Adecuado/Pleno (%);33,5;41,3;18,6;38,7;26,5
+ENEMDU*;sep-21;Subempleo (%);22,7;21,0;25,9;23,7;21,2
+ENEMDU*;sep-21;Subempleo por insuficiencia de tiempo de trabajo (%);20,2;18,9;22,8;20,7;19,6
+ENEMDU*;sep-21;Subempleo por  insuficiencia de ingresos (%);2,4;2,1;3,1;3,0;1,7
+ENEMDU*;sep-21;Empleo no Remunerado (%);10,8;5,2;21,7;7,3;15,7
+ENEMDU*;sep-21;Otro Empleo no pleno(%);27,6;25,3;32,0;26,0;29,7
+ENEMDU*;sep-21;Empleo no Clasificado (%);0,5;0,8;0,1;0,4;0,7
+ENEMDU*;sep-21;Desempleo (%);4,9;6,5;1,7;3,9;6,2
+ENEMDU*;sep-21;Desempleo Abierto (%);4,3;5,9;1,3;3,4;5,5
+ENEMDU*;sep-21;Desempleo Oculto (%);0,5;0,6;0,4;0,5;0,7
+ENEMDU*;sep-21;Participación Global (%);66,7;63,1;75,1;78,8;55,2
+ENEMDU*;sep-21;Participación Bruta (%);47,4;45,8;50,9;55,9;39,3
+;oct-21;Empleo Bruto (%);63,0;59,1;71,8;75,9;50,6
+;oct-21;Empleo Global (%);95,4;94,3;97,7;96,4;94,1
+;oct-21;Empleo Adecuado/Pleno (%);32,0;40,2;15,7;37,8;23,8
+;oct-21;Subempleo (%);23,9;22,8;25,9;24,8;22,7
+;oct-21;Subempleo por insuficiencia de tiempo de trabajo (%);21,3;20,9;22,1;21,7;20,8
+;oct-21;Subempleo por  insuficiencia de ingresos (%);2,6;1,9;3,8;3,1;1,9
+;oct-21;Empleo no Remunerado (%);11,3;5,2;23,2;6,4;18,2
+;oct-21;Otro Empleo no pleno(%);27,7;25,1;32,7;26,9;28,9
+;oct-21;Empleo no Clasificado (%);0,6;0,8;0,2;0,6;0,6
+;oct-21;Desempleo (%);4,6;5,7;2,3;3,6;5,9
+;oct-21;Desempleo Abierto (%);4,0;5,2;1,6;3,1;5,3
+;oct-21;Desempleo Oculto (%);0,6;0,5;0,7;0,5;0,6
+;oct-21;Participación Global (%);66,0;62,7;73,5;78,7;53,8
+;oct-21;Participación Bruta (%);46,9;45,6;49,8;55,9;38,3
